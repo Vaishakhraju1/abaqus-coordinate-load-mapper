@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.odb
+*.cae
+*.sim
+*.log
+*.lck
+*.jnl
+*.rpy
+loads.inp
+mapping.csv
